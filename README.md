@@ -1,2 +1,3 @@
 # Initial-Repository
 Setting up a simple repository for future reference
+Stay tuned for some cool projects ....
